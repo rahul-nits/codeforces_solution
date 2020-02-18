@@ -1,6 +1,7 @@
 // Minimum steps to go from n to m.
 // step query problem
 // 520B TWO BUTTONS CODEFORCES SOLUTION
+//520B codeforces solution
 
 	#include <bits/stdc++.h>
 	#include <cstdio>
